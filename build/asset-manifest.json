@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-app-monsters-rolodex/static/css/main.99b165af.chunk.css",
+    "main.js": "/react-app-monsters-rolodex/static/js/main.d4fa783e.chunk.js",
+    "main.js.map": "/react-app-monsters-rolodex/static/js/main.d4fa783e.chunk.js.map",
+    "runtime~main.js": "/react-app-monsters-rolodex/static/js/runtime~main.352ca324.js",
+    "runtime~main.js.map": "/react-app-monsters-rolodex/static/js/runtime~main.352ca324.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-app-monsters-rolodex/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-app-monsters-rolodex/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-app-monsters-rolodex/index.html",
+    "precache-manifest.af1d06141c4e4a54d85998261ca2f197.js": "/react-app-monsters-rolodex/precache-manifest.af1d06141c4e4a54d85998261ca2f197.js",
+    "service-worker.js": "/react-app-monsters-rolodex/service-worker.js",
+    "static/css/main.99b165af.chunk.css.map": "/react-app-monsters-rolodex/static/css/main.99b165af.chunk.css.map"
+  }
+}
